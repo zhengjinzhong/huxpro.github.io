@@ -85,18 +85,18 @@ service-worker: true
 
 
 # Friends
-#friends: [
+friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+    #     title: "乱序",
+    #     href: "http://mida.re/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+    #    title: "解旻的博客",
+    #    href: "http://xieminis.me/"
     },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+    #    title: "前端神盾局",
+    #    href: "http://wepiaofei.github.io/blog/"
     }
 ]
